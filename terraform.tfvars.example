@@ -1,0 +1,2 @@
+# Copie para terraform.tfvars e informe seu IP público (curl -s https://checkip.amazonaws.com)
+allowed_cidrs = ["203.0.113.10/32"]
